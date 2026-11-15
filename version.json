@@ -1,8 +1,15 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "build_number": 1,
   "release_date": "2026-11-15",
-  "release_notes": "Official release v1.0.0 of Sadu Oman for textile university students.",
-  "release_notes_ar": "الإصدار الرسمي v1.0.0 من سدو عُمان لطلبة تصميم المنسوجات والسدو.",
-  "download_url": "https://github.com/ya27hw/sadu-oman-releases/releases/tag/v1.0.0"
+  "release_notes": "Official release v1.0.1 of Sadu Oman for textile university students.",
+  "release_notes_ar": "الإصدار الرسمي v1.0.1 من سدو عُمان لطلبة تصميم المنسوجات والسدو.",
+  "download_url": "https://github.com/ya27hw/sadu-oman-releases/releases/tag/v1.0.1",
+  "downloads": {
+    "android": "releases/zahras_weave_android.apk",
+    "linux": "releases/zahras_weave_linux_x64.tar.gz",
+    "windows": "releases/sadu-oman-windows-setup.exe",
+    "windows_zip": "releases/sadu-oman-windows-x64.zip",
+    "macos": "releases/sadu-oman-macos.zip"
+  }
 }
