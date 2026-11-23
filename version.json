@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "build_number": 2,
-  "release_date": "2026-11-19",
-  "release_notes": "Sadu Oman 1.0.2 updates the app name, organizes Settings and refreshes the website screenshots.",
-  "release_notes_ar": "يحدّث إصدار سدو عُمان 1.0.2 اسم التطبيق وينظّم الإعدادات ويجدّد لقطات الشاشة في الموقع.",
-  "download_url": "https://github.com/ya27hw/sadu-oman-releases/releases/tag/v1.0.2",
+  "version": "1.1.0",
+  "build_number": 4004,
+  "release_date": "2026-11-23",
+  "release_notes": "Resume a marked color run at the loom, preview the next run, and estimate yarn needs from a woven swatch.",
+  "release_notes_ar": "استأنفي النسج من المقطع اللوني المحفوظ، وعايني المقطع التالي، وقدّري احتياج الغزل من عينة منسوجة.",
+  "download_url": "https://github.com/ya27hw/sadu-oman-releases/releases/tag/v1.1.0",
   "downloads": {
-    "android": "releases/sadu-oman-android.apk",
-    "linux": "releases/sadu-oman-linux-x64.tar.gz",
-    "windows": "releases/sadu-oman-windows-setup.exe",
-    "windows_zip": "releases/sadu-oman-windows-x64.zip",
-    "macos": "releases/sadu-oman-macos.zip"
+    "android": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-android.apk",
+    "linux": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-linux-x64.tar.gz",
+    "windows": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-setup.exe",
+    "windows_zip": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-x64.zip",
+    "macos": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-macos.zip"
   }
 }
