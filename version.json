@@ -1,15 +1,15 @@
 {
   "version": "1.1.0",
-  "build_number": 4004,
-  "release_date": "2026-11-23",
-  "release_notes": "Resume a marked color run at the loom, preview the next run, and estimate yarn needs from a woven swatch.",
-  "release_notes_ar": "استأنفي النسج من المقطع اللوني المحفوظ، وعايني المقطع التالي، وقدّري احتياج الغزل من عينة منسوجة.",
+  "build_number": 4005,
+  "release_date": "2026-11-24",
+  "release_notes": "Resume a marked color run at the loom, preview the next run, and estimate yarn needs from a woven swatch. The motif library now includes 34 new abstract designs. Start from a classroom template, share .zweave coursework, and save an emergency copy from the recovery screen.",
+  "release_notes_ar": "استأنفي النسج من المقطع اللوني المحفوظ، وعايني المقطع التالي، وقدّري احتياج الغزل من عينة منسوجة. تضم مكتبة النقوش الآن ٣٤ تصميمًا تجريديًا جديدًا. ابدئي من قالب دراسي، وشاركي الواجبات بصيغة .zweave، واحفظي نسخة طارئة من شاشة الاسترداد.",
   "download_url": "https://github.com/ya27hw/sadu-oman-releases/releases/tag/v1.1.0",
   "downloads": {
-    "android": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-android.apk",
-    "linux": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-linux-x64.tar.gz",
-    "windows": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-setup.exe",
-    "windows_zip": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-x64.zip",
-    "macos": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-macos.zip"
+    "android": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-android-b4005.apk",
+    "linux": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-linux-x64-b4005.tar.gz",
+    "windows": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-setup-b4005.exe",
+    "windows_zip": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-windows-x64-b4005.zip",
+    "macos": "https://github.com/ya27hw/sadu-oman-releases/releases/download/v1.1.0/sadu-oman-macos-b4005.zip"
   }
 }
